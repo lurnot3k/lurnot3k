@@ -1,16 +1,13 @@
-### Hi there 👋
+### **Lurnot3k**
 
-<!--
-**orangina-mc/orangina-mc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur Français concentré sur ses projet
+J'aime bien coder, c'est un loisir que j'aime beaucoup pratiquer.
 
-Here are some ideas to get you started:
+### **COMPÉTENCES**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![logo html css](https://byfeel.info/wp-content/uploads/2015/02/css-html2-e1517475681211.png)
+
+### **Projets actuels**
+
+• Concevoir un site web pour ma Faction Paladium
+• Faire un serveur Minecraft 
