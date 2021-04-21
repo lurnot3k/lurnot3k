@@ -10,4 +10,4 @@ J'aime bien coder, c'est un loisir que j'aime beaucoup pratiquer.
 ### **Projets actuels**
 
 • Concevoir un site web pour ma Faction Paladium
-• Faire un serveur Minecraft 
+<br />• Faire un serveur Minecraft 
