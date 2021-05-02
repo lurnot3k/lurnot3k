@@ -19,4 +19,4 @@ J'aime bien coder, c'est un loisir que j'aime beaucoup pratiquer.
 
 ### **LANGAGES PROJETS**
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orangina-mc&layout=compact&bg_color=262626&text_colo=ffffff)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orangina-mc&layout=compact&bg_color=262626&text_color=ffffff)
