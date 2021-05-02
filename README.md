@@ -1,6 +1,6 @@
 ### **Lurnot3k**
 
-Développeur Français concentré sur ses projet<br />
+Développeur Français concentré sur ses projets<br />
 J'aime bien coder, c'est un loisir que j'aime beaucoup pratiquer.
 
 ### **COMPÉTENCES**
