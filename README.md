@@ -11,3 +11,7 @@ J'aime bien coder, c'est un loisir que j'aime beaucoup pratiquer.
 
 • Concevoir un site web pour ma Faction Paladium
 <br />• Faire un serveur Minecraft 
+
+### **STATS DU COMPTE**
+
+![Stats](https://github-readme-stats.vercel.app/api?username=orangina-mc&show_icons=true&theme=algolia&locale=fr)
