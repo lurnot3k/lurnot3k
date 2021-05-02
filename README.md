@@ -1,5 +1,7 @@
 ### **Lurnot3k**
 
+![Metrics](https://metrics.lecoq.io/orangina-mc?template=classic&config.timezone=Indian%2FReunion)
+
 Développeur Français concentré sur ses projets<br />
 J'aime bien coder, c'est un loisir que j'aime beaucoup pratiquer.
 
