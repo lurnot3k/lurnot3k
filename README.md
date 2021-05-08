@@ -13,7 +13,8 @@ J'aime bien coder, c'est un loisir que j'aime beaucoup pratiquer.
 
 **•** Concevoir un site web pour ma Faction Paladium
 <br />**•** Faire un serveur Minecraft<br />
-**•** Faire un site de téléchargement de serveurs Minecraft pré-configurés
+**•** Faire un site de téléchargement de serveurs Minecraft pré-configurés<br />
+**•** Développer un bot Discord en Python
 
 ### **STATS DU COMPTE**
 
