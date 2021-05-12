@@ -8,7 +8,7 @@ J'aime bien coder, c'est un loisir que j'aime beaucoup pratiquer.
 ### **COMPÉTENCES**
 
 ![logo html css](https://cdn.discordapp.com/attachments/566639457286094860/835136088288788480/css-html2-e1517475681211-2.png)
-![python logo](https://user-images.githubusercontent.com/77621024/117996111-effda600-b352-11eb-96c1-6f3b25d02a1f.jpeg)
+![python logo](https://user-images.githubusercontent.com/77621024/117996658-626e8600-b353-11eb-90cc-c1bd3a6caa05.png)
 
 
 ### **Projets actuels**
