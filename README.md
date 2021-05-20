@@ -1,6 +1,6 @@
 ### **Lurnot3k**
 
-![Metrics](https://metrics.lecoq.io/orangina-mc?template=classic&config.timezone=Indian%2FReunion)
+![Metrics](https://metrics.lecoq.io/lurnot3k?template=classic&config.timezone=Europe%2FParis)
 
 Développeur Français concentré sur ses projets<br />
 J'aime bien coder, c'est un loisir que j'aime beaucoup pratiquer.
@@ -19,8 +19,8 @@ J'aime bien coder, c'est un loisir que j'aime beaucoup pratiquer.
 
 ### **STATS DU COMPTE**
 
-![Stats](https://github-readme-stats.vercel.app/api?username=orangina-mc&show_icons=true&theme=algolia&locale=fr)
+![Stats](https://github-readme-stats.vercel.app/api?username=lurnot3k&show_icons=true&theme=algolia&locale=fr)
 
 ### **LANGAGES PROJETS**
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orangina-mc&layout=compact&bg_color=262626&text_color=ffffff&locale=fr)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lurnot3k&layout=compact&bg_color=262626&text_color=ffffff&locale=fr)
