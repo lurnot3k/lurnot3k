@@ -2,20 +2,16 @@
 
 ![Metrics](https://metrics.lecoq.io/lurnot3k?template=classic&config.timezone=Europe%2FParis)
 
-Développeur Français concentré sur ses projets<br />
-J'aime bien coder, c'est un loisir que j'aime beaucoup pratiquer.
+A REFAIRE
 
 ### **COMPÉTENCES**
 
 ![logo html css](https://cdn.discordapp.com/attachments/566639457286094860/835136088288788480/css-html2-e1517475681211-2.png)
 <img src="https://raw.githubusercontent.com/8radm1n/vendor-icons-svg/702f2ac88acc71759ce623bc5000a596195e9db3/python.svg" alt="python" width="50" height="50"/>
-
+A UPDATE
 ### **Projets actuels**
 
-**•** Concevoir un site web pour ma Faction Paladium
-<br />**•** Faire un serveur Minecraft<br />
-**•** Faire un site de téléchargement de serveurs Minecraft pré-configurés<br />
-**•** Développer un bot Discord en Python
+A REFAIRE
 
 ### **STATS DU COMPTE**
 
